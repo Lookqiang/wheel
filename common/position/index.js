@@ -662,4 +662,4 @@ class Rect {
   }
 }
 
-export default Positon;
+module.exports = Positon;
